@@ -11,5 +11,5 @@
 
 # Issues
 1.Need fixing on Views after saving on purchasing\
-2.Need to add feature to see details purchasing and details stock items, etc
+2.Need to add feature to see details purchasing and details stock items, etc\
 3.Need to add report feature
